@@ -11,4 +11,4 @@ In this project, I learned the followings:
 - How to update the UI with the built in Jetpack Compose
 - How to push a new project to GitHub
 
-<img width="1396" alt="Android_Studio_Demo" src="https://user-images.githubusercontent.com/89494794/218284775-1be46b46-8f82-4c1d-897b-3f46ed483f64.png">
+<img width="1396" alt="Android_Studio_Demo" src="https://github.com/eunjujong/Android_Greeding_Card_App_Demo/blob/main/Android_Studio_Demo.png">
